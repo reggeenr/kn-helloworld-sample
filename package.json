@@ -4,7 +4,9 @@
   "description": "Simple hello world sample in Node",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "run:app": "node app.js",
+    "run:job": "node job.js"
   },
   "author": "",
   "license": "Apache-2.0",
